@@ -39,55 +39,55 @@ a, a:hover, a:visited, a:active {
 
 @font-face {
   font-family: Argentum;
-  src: url(../Fonts/ArgentumSans-Regular.ttf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: Monarda;
-  src: url(../Fonts/Monarda.ttf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: Argentum2;
-  src: url(../Fonts/ArgentumSans-Thin.ttf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: Rampage1;
-  src: url(../Fonts/RampageMonoline.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: Rampage2;
-  src: url(../Fonts/RampageMonoline-Rounded.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG7;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Black.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG6;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Bold.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG5;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Extrabold.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG4;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Extralight.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG3;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Light.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG2;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Medium.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG1;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Regular.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 @font-face {
   font-family: CG0;
-  src: url(../Fonts/CabinetGrotesk/CabinetGrotesk-Thin.otf); }
+  src: url(../Fonts/GildaDisplay-Regular.ttf); }
 
 .user-nav {
   display: flex;
