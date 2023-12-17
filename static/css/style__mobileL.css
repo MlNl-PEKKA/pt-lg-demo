@@ -1,0 +1,100 @@
+.user-nav {
+    font-size: 1rem; }
+    .user-nav__title {
+      font-size: 1.5rem; }
+    .user-nav__sub-title {
+      font-size: 1rem; }
+    .user-nav__logo {
+      height: 4rem;
+      width: 5rem; }
+    .user-nav__nav {
+      width: 45vw; }
+  .screen1__subtag {
+    font-size: 2.5vh; }
+  .screen1__tag {
+    margin-top: 2rem;
+    font-size: 4rem;
+    letter-spacing: 0.2rem;
+    word-spacing: 0.4rem;
+    width: 80%; }
+  .mouse {
+    bottom: 10vh;
+    width: 2.5rem;
+    height: 4rem; }
+    .mouse::after {
+      font-size: 1rem;
+      transform: translate(2rem, 4rem); }
+  .screen2__content__subtitle {
+    font-size: 1rem; }
+  .screen2__content__title {
+    font-size: 3rem; }
+  .screen2__content__body {
+    font-size: 1rem; }
+  .user-button {
+    font-size: 1rem;
+    padding: 1rem 2rem 1rem 2rem; }
+  .screen4__content__subtitle {
+    font-size: 1rem; }
+  .screen4__content__title {
+    font-size: 3rem; }
+  .screen4__card {
+    height: 22vh; }
+    .screen4__card__title {
+      font-size: 0.9rem; }
+    .screen4__card__desc {
+      font-size: 0.9rem; }
+    .screen4__card__icon {
+      width: 3rem;
+      background-size: cover; }
+  .screen3__content__subtitle {
+    font-size: 1rem; }
+  .screen3__content__title {
+    font-size: 3rem; }
+  .screen3__content__body {
+    font-size: 1rem; }
+  .screen3__panel__title {
+    font-size: 1.25rem;
+    letter-spacing: 0.1rem; }
+  .screen3__panel__price {
+    font-size: 1.25rem; }
+  .screen3__panel__location {
+    font-size: 1.25rem; }
+  .screen3__panel__desc {
+    font-size: 0.85rem; }
+  .screen5__header__subtitle {
+    font-size: 1rem; }
+  .screen5__header__title {
+    font-size: 3rem; }
+  .screen5__header__desc {
+    font-size: 1rem; }
+  .screen5__comment__desc {
+    font-size: 0.9rem; }
+  .screen5__comment__person {
+    font-size: 1rem; }
+    .screen5__comment__person__img {
+      width: 4vw; }
+  .screen6__content__subtitle {
+    font-size: 1rem; }
+  .screen6__content__title {
+    font-size: 3rem; }
+  .screen6__content__body {
+    font-size: 1rem; }
+  .footer___col__head {
+    font-size: 0.9rem; }
+  .footer___col__sub {
+    font-size: 0.8rem; }
+  .footer___col__icon {
+    width: 2.5vw; }
+  .footer___logo {
+    height: 2rem;
+    width: 5rem;
+    background-size: contain; } 
+    .container {
+      height: 580vh; }
+    .header {
+      height: 7rem; }
+    .screen6 {
+      height: 90vh; }
+    .footer {
+      top: 550vh; }
+      
